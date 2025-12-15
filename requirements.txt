@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+torch      # or tensorflow if you prefer
+pyyaml
+yaml
+streamlit
+watchdog
+sklearn
+torch

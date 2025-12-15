@@ -1,0 +1,24 @@
+{
+  "mode": "logistic_regression",
+  "test_accuracy": 0.6666666666666666,
+  "coef": {
+    "est_min": -0.007551825883081985,
+    "effort_ratio": -0.7936461539360802,
+    "reminders_norm": 0.3068327865335282,
+    "intercept": 1.6745217090739968
+  },
+  "per_subject": [
+    {
+      "subject": "Math",
+      "p_pred_mean": 0.7092591556425614,
+      "actual_completion_rate": 0.7121212121212122,
+      "n": 66
+    },
+    {
+      "subject": "Physics",
+      "p_pred_mean": 0.6836169594482967,
+      "actual_completion_rate": 0.6666666666666666,
+      "n": 33
+    }
+  ]
+}

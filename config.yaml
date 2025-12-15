@@ -1,0 +1,6 @@
+daily_hours_max_min: 360
+exam_near_days: 3
+safe_default_minutes: 60
+needs_info_default_minutes: 60
+reschedule_latency_target_s: 2
+swipl_path: "C:/Program Files/swipl/bin/swipl.exe"

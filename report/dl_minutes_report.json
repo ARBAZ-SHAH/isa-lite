@@ -1,0 +1,23 @@
+{
+  "mode": "pytorch_mlp_minutes_predictor",
+  "n_rows": 3267,
+  "n_train": 2287,
+  "n_test": 980,
+  "features": [
+    "sub_ix(embedding)",
+    "difficulty",
+    "days_to_deadline",
+    "past_completion"
+  ],
+  "baseline": {
+    "type": "mean_est_min",
+    "mae_minutes": 19.223
+  },
+  "dl_model": {
+    "mae_minutes": 20.505
+  },
+  "subjects": {
+    "Math": 0,
+    "Physics": 1
+  }
+}

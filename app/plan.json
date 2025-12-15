@@ -1,0 +1,17 @@
+[
+  {
+    "subject": "chemistry",
+    "decision": "shortlist",
+    "minutes": 120
+  },
+  {
+    "subject": "math",
+    "decision": "shortlist",
+    "minutes": 90
+  },
+  {
+    "subject": "physics",
+    "decision": "shortlist",
+    "minutes": 120
+  }
+]
