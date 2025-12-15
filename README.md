@@ -1,6 +1,3 @@
-Below is a **clean, professional `README.md`** you can copy-paste directly into your repository.
-It is written **exactly at the level your ISD (CS-5104) instructor expects**: explicit, structured, PRAL-aligned, and easy to understand without oral explanation.
-
 ---
 
 # ISA-Lite — Intelligent Study Assistant
